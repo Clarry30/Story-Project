@@ -1,0 +1,5 @@
+
+my_story = ["Azubi Africa", "Cloud Engineering", "Spring23"]
+name = "Gladys"
+#print("Hi,i'm " + name + " a cloud trainee at " + my_story[0])
+print(f"Hi, I'm {name} a cloud trainee at {my_story[0]} and this is my story")
