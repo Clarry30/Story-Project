@@ -1,4 +1,4 @@
-
+#my #azubi #story
 my_story = ["Azubi Africa", "Cloud Engineering", "Spring23"]
 name = "Gladys"
 #print("Hi,i'm " + name + " a cloud trainee at " + my_story[0])
